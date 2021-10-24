@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Graphing Graphs</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Graphing Graphs</string>
+    <string name="nav_header_subtitle">EPIS - UNSA 2019</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Insertar Matriz</string>
+    <string name="title_activity_draw_graph">Dibujar Grafo</string>
+    <string name="title_activity_view_matrix">Matriz resultante</string>
+    <string name="title_activity_view_graph">Grafo resultante</string>
+    <string name="title_activity_draw">Draw</string>
+    <string name="welcome_message">Bienvenid@ a Graphing Graphs</string>
+    <string name="help_message">"Bienvenid@ a la sección de ayuda: \n
+        >>> Para la sección Insertar Matriz: Por defecto, se crea una matriz no ponderada de tamaño 2, si desea cambiar el tamaño de la matriz, solo debe presionar los botones de *más* o *menos*.
+        Los espacios de la matriz inician en cero, si desea cambiar su valor, solo debe tocarlo.
+        Para cambiar la matriz por una matriz ponderada, solo debe activar el Checkbox *Matriz Ponderada*.
+        Para insertar un valor, solo debe hacer click en el espacio deseado, y aparecerá una ventana emergente para ingresar el valor."</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
